@@ -1,2 +1,4 @@
 practicing git
 edit again  line 2
+adiing 3rd line as exercising
+line 4
